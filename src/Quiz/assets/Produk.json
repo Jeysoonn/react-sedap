@@ -1,0 +1,37 @@
+[
+    {
+        "productID": "Pr01",
+        "productName": "Ketoprak",
+        "harga": "20.000",
+        "stock": "120"
+
+    },
+    {
+        "productID": "Pr02",
+        "productName": "Bakso",
+        "harga": "10.000",
+        "stock": "120"
+
+    },
+    {
+        "productID": "Pr03",
+        "productName": "Ayam Goreng",
+        "harga": "30.000",
+        "stock": "120"
+
+    },
+    {
+        "productID": "Pr04",
+        "productName": "Pangsit",
+        "harga": "40.000",
+        "stock": "120"
+
+    },
+    {
+        "productID": "Pr05",
+        "productName": "Bakmi",
+        "harga": "50.000",
+        "stock": "120"
+
+    }
+]

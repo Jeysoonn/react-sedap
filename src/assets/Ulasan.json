@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah",
+    "review": "Produk ini sangat membantu dalam aktivitas harian saya.",
+    "avatar": "https://avatar.iran.liara.run/public/boy"
+  },
+  {
+    "id": 2,
+    "name": "Dimas",
+    "review": "Kualitas bagus dan pengiriman cepat. Terima kasih!",
+    "avatar": "https://avatar.iran.liara.run/public/girl"
+  },
+  {
+    "id": 3,
+    "name": "Lina",
+    "review": "Harga terjangkau dan sesuai dengan deskripsi.",
+    "avatar": "https://avatar.iran.liara.run/public/girl"
+  },
+  {
+    "id": 4,
+    "name": "Andi",
+    "review": "Pelayanan pelanggan sangat responsif dan ramah.",
+    "avatar": "https://avatar.iran.liara.run/public/boy"
+  },
+  {
+    "id": 5,
+    "name": "Rina",
+    "review": "Pengalaman berbelanja yang menyenangkan dan mudah.",
+    "avatar": "https://avatar.iran.liara.run/public/girl"
+  }
+]
